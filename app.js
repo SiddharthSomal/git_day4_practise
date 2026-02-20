@@ -1,2 +1,6 @@
 Console.log("Git Day 5 practice");
-let role = "Admin";
+<<<<<<< HEAD
+let role = "Developer";
+=======
+let role = "Developer";
+>>>>>>> feature
